@@ -34,3 +34,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/saranjthilak/data-finetune-your-neural-network.git
 cd data-finetune-your-neural-network
+```
+### Project Structure
+```
+├── Finetune-and-save-your-neural-network.ipynb   # Main notebook with step-by-step guide
+├── my_boston_model.keras                         # Example saved model file
+├── README.md                                    # This file
+├── Makefile                                     # Optional automation commands
+└── tests/                                       # (If any) Unit tests
+```
+
